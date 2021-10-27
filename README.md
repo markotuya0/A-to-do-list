@@ -1,0 +1,1 @@
+A simple mobile TODO application using Ionic Framework, HTML5 WebSQL & Phonegap. Please use webkit browser like chrome to run this app.
